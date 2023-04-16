@@ -52,4 +52,4 @@
 
 项目初创，就简单放个作者的公众号就好了，欢迎大家的支持！
 
-![作者微信公众号](./pics/wxqrcode.png)
+<img src="./pics/wxqrcode.png" width="480">
